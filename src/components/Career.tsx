@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Computer Engineering</h4>
+                <h5>Jaypee Institute of Information and Technology (JIIT)</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2024 - 2027</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Acquiring specialized knowledge in computer engineering, algorithms, database systems, and AI/ML foundations, maintaining a cumulative CGPA of 6.2.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Full Stack Web Developer Intern</h4>
+                <h5>Aroma IQ</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>Nov 2024 - Dec 2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Developed responsive web applications with React, designed secure RESTful APIs, integrated backend servers, and optimized database queries using MySQL and MongoDB.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Volunteer</h4>
+                <h5>The Robotics Hub, JIIT</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2024 - 2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Assisted in organizing robotics workshops, guided participants in automation-based projects, managed event logistics, and coordinated technical competitions.
             </p>
           </div>
         </div>
